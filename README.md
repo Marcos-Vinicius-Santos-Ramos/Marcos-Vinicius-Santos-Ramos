@@ -2,8 +2,8 @@
 - 🧔 Me chamo Marcos Vinícius, sou fisioterapeuta formado pela UFRGS e sou apaixonado por pesquisa e pelo processo de responder perguntas com base em dados
 - 💻 Estou em transição de carreira e trabalhando para me tornar um excelente cientista de dados!
 - 🌱 Atualmente estou aprimorando meus conhecimentos com aprendizado de máquina utilizando Python
-- 🔭 Estou criando um portifólio de projetos voltado para ciência de dados e colocando em prática meus conhecimentos adquiridos durante cursos teóricos
-- 🔎 Em um futuro próximo tenho interesse em aprender sobre redes neurais
+- 🔭 Estou criando um portifólio de projetos voltado para ciência de dados e colocando em prática meus conhecimentos adquiridos durante cursos teórico-práticos
+- 🧠 Em um futuro próximo tenho interesse em aprender sobre redes neurais
 
 <!--
 **Marcos-Vinicius-Santos-Ramos/Marcos-Vinicius-Santos-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
